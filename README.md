@@ -1,16 +1,14 @@
-### Hi there 👋
+### boas vindas ao meu perfil 💙
 
-<!--
-**patolinopernalonga/patolinopernalonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é kauã Ferreira
 
-Here are some ideas to get you started:
+- Estou estudando no [alura](
+- Estou me desenvolvendo n linguagem javascrit;
+- Utilizo esse espaço para minha orgaização e compartilhamento de projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### você enta em contato comigo 📫
+
+ 00001114980985sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/dg1htVbDW-IAAAAC/the-princess-and-the-frog-prince-naveen.gif)
+ 
